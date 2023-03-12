@@ -8,3 +8,6 @@ Step 1
 Step 1
 <h3>In ServerScriptService make a folder called "Scripts" in there should be a basic script and in the basic script there should be a Local script THATS DISABLED"<h3>
 <h2>basic script is called = "AntiExploit" and the Local script thats disabled "ClientAntiExploit"<h2>
+
+
+<h6>Might have a bug w the disco webhook feel free to correct it!<h6>
